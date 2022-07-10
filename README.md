@@ -1,6 +1,4 @@
-# Covid-detection-from-radiography-dataset
-
-
+# Covid-detection-from-X-Rays
 
 
 <p align="center">
